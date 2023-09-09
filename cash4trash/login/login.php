@@ -2,6 +2,7 @@
 
 	$email = $_POST["email"];
     $senha = $_POST["senha"];
+	//teste
 	
 	$trimsenha=trim($senha);
 	$trimemail = trim($email);
