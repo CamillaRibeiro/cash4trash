@@ -8,5 +8,7 @@
 		mysqli_set_charset($conexao, "utf8");
 		return $conexao;
 		//testeCAMILLALINDA
+
+		//CAMILLATCHONGA
 	}
 ?>
